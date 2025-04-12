@@ -1,5 +1,5 @@
 
-# 🧠 MemoTag - Cognitive Impairment Detection from Children's Speech
+# 🧠 MemoTag - Cognitive Impairment Detection from Speech
 
 This project explores early detection of cognitive impairments by analyzing speech features from audio recordings of children using unsupervised machine learning techniques.
 
@@ -42,10 +42,6 @@ The notebook generates visual insights such as:
 ## 🚀 API Ready
 
 An API-ready function is included to process `.wav` files and return a risk score, suitable for deployment via Flask or FastAPI.
-
-## 📄 Report
-
-See the full [MemoTag Analysis Report](./MemoTag_Detailed_50_Page_Report.docx) for a detailed breakdown of the project methodology and results.
 
 ---
 
