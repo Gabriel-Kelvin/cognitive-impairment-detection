@@ -1,5 +1,5 @@
 
-# 🧠 MemoTag - Cognitive Impairment Detection from Speech
+# 🧠 Cognitive Impairment Detection from Speech
 
 This project explores early detection of cognitive impairments by analyzing speech features from audio recordings of children using unsupervised machine learning techniques.
 
